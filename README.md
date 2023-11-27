@@ -2,6 +2,6 @@
 
 <p align="center">
 <a>
-    <img width="900" src="output.JPG">
+    <img width="1000" src="output.JPG">
 </a>
 </p>
