@@ -12,11 +12,11 @@ This is a Streamlit application that allows users to ask questions about an uplo
 
 1. Clone the repository:
 
-        git clone https://github.com/your-username/image-question-answering.git
+        git clone https://github.com/TVR28/Ask-The-Image.git
         
 2. Change to the project directory:
 
-        cd  ask-question-image-web-app-streamlit-langchain
+        cd  Ask-The-Image
         
 3. Install the required dependencies:
 
