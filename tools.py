@@ -1,4 +1,3 @@
-# openai key = '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'
 from langchain.tools import BaseTool
 from transformers import BlipProcessor, BlipForConditionalGeneration, DetrImageProcessor, DetrForObjectDetection
 from PIL import Image
