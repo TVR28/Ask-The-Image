@@ -1,2 +1,2 @@
 # Ask The Image
-![Screenshot](output.jpg)
+![Output](Output.JPG)
